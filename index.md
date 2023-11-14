@@ -5,5 +5,5 @@ I am in CTI - 110
 
 <p>Here's an image</p>
 
-< img src = "download.jfif"> </img>
+<img src = "download.jfif"> </img>
 
